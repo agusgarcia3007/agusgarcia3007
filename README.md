@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/agusgarcia3007/](https://www.linkedin.com/in/agusgarcia3007/)
 
-- ⚡ Fun fact **I'm a Barista too 😝**
+- ⚡ Fun fact **I'm a Barista 😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
