@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusgarcia3007&label=Profile%20views&color=0e75b6&style=flat" alt="agusgarcia3007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agusgarcia3007" alt="agusgarcia3007" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/agustingds3007" target="blank"><img src="https://img.shields.io/twitter/follow/agustingds3007?logo=twitter&style=for-the-badge" alt="agustingds3007" /></a> </p>
 
 - 🔭 I’m currently working on [Vexels](https://www.vexels.com/)
