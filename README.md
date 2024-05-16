@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/agustingds3007" target="blank"><img src="https://img.shields.io/twitter/follow/agustingds3007?logo=twitter&style=for-the-badge" alt="agustingds3007" /></a> </p>
 
-- 🔭 I’m currently working on [Vexels](https://www.vexels.com/)
-
 - 🌱 I’m currently learning **Ethical Hacking and Cyber Seceurity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/agusgarcia3007](https://github.com/agusgarcia3007)
